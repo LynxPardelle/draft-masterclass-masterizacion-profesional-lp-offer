@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-masterizacion-profesional.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Masterización musical | Lynx Pardelle",
+    "description": "Escucha qué necesita una mezcla terminada antes de elegir una cadena de masterización. Compara el procesamiento en serie y en paralelo y revisa el resultado con referencias.",
+    "canonical": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-produccion.webp"
+    }
+  }
+}
