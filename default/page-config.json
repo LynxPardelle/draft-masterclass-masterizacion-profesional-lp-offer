@@ -7,12 +7,64 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Masterización musical | Lynx Pardelle",
-    "description": "Escucha qué necesita una mezcla terminada antes de elegir una cadena de masterización. Compara el procesamiento en serie y en paralelo y revisa el resultado con referencias.",
+    "title": "Masterclass de masterización en serie y paralelo | Lynx Pardelle",
+    "description": "Analiza una mezcla y compara cadenas de máster en serie, paralelo y combinadas. Masterclass de 3 a 4 horas con conocimientos previos.",
     "canonical": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-masterizacion-profesional-r2-4b53fbb966ae748c.webp",
+      "title": "Masterclass de masterización en serie y paralelo | Lynx Pardelle",
+      "description": "Analiza una mezcla y compara cadenas de máster en serie, paralelo y combinadas. Masterclass de 3 a 4 horas con conocimientos previos.",
+      "url": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/",
+      "imageAlt": "Monitores y equipo de masterización en una sala de escucha."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de masterización en serie y paralelo | Lynx Pardelle",
+      "description": "Analiza una mezcla y compara cadenas de máster en serie, paralelo y combinadas. Masterclass de 3 a 4 horas con conocimientos previos.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-masterizacion-profesional-r2-4b53fbb966ae748c.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/#webpage",
+        "name": "Masterización musical",
+        "description": "Analiza una mezcla y compara cadenas de máster en serie, paralelo y combinadas. Masterclass de 3 a 4 horas con conocimientos previos.",
+        "url": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Masterización musical",
+        "description": "Analiza una mezcla y compara cadenas de máster en serie, paralelo y combinadas. Masterclass de 3 a 4 horas con conocimientos previos.",
+        "url": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-masterizacion-profesional-r2-4b53fbb966ae748c.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "coursePrerequisites": "Se requieren conocimientos previos.",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-masterizacion-profesional.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
